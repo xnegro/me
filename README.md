@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mahmoudelnagarx1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n3-LB4SDEhWnRGij3Q5Es8ZuTlxlTgaf/view?usp=sharing](https://drive.google.com/file/d/1n3-LB4SDEhWnRGij3Q5Es8ZuTlxlTgaf/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1dl3Hw4s8cXl44goxY9LuBFRu8rG3FjSe/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
