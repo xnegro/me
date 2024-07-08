@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xnegro" alt="xnegro" /></a> </p>
 
+- 🔭 Some projects are private so you probably won't see them here
+
 - 🔭 I’m currently working on [Private Trainer](https://bit.ly/znegro_gym_app)
 
 - 🤝 I'm done with work on [Home Service Cleaning](https://bit.ly/znegro-trophycleaning)
 
 - 👨‍💻 All of my projects are available at [https://znegro.com/](https://znegro.com/)
 
-- 📫 How to reach me **mahmoud@znegro.com**
+- 📫 How to reach me **mahmoudelnagarx1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1n3-LB4SDEhWnRGij3Q5Es8ZuTlxlTgaf/view?usp=sharing](https://drive.google.com/file/d/1n3-LB4SDEhWnRGij3Q5Es8ZuTlxlTgaf/view?usp=sharing)
 
